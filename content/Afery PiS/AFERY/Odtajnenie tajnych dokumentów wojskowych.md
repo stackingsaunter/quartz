@@ -1,17 +1,4 @@
 
----
-title: 'Odtajnienie tajnych dokumentów wojskowych'
-importance: 2
-involved: ['mariusz błaszczak', '']
-tags: ['wojsko', 'dokumenty', 'rosja', 'wybory']
-image_url: 'https://m.natemat.pl/979c7e5f6885cf3f025848d0e4750928,1896,0,0,0.webp'
-sources: [
-    {
-        source: 'natemat.pl',
-        link: 'https://natemat.pl/511117,blaszczak-odtajnil-dokument-zeby-uderzyc-w-po-szok-u-bylych-wojskowych',
-    }
-
----
 
 ![[Pasted image 20230917231316.png]]
 # Podsumowanie

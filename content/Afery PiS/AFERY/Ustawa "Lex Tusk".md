@@ -1,21 +1,4 @@
 
----
-title: 'Ustawa Lex Tusk'
-importance: 3
-involved: ['imie nazwisko', 'imie nazwisko 2']
-tags: ['donald tusk', 'konstytucja', 'trybunał konstytucyjny', 'rosja', 'komisja']
-image_url: 'https://demagog.org.pl/wp-content/uploads/2023/05/%E2%80%9ELex-Tusk-wchodzi-w-zycie.-Czym-jest-komisja-ds.-rosyjskich-wplywow-1.png'
-sources: [
-    {
-        source: 'demagog.pl',
-        link: 'https://demagog.org.pl/analizy_i_raporty/lex-tusk-wchodzi-w-zycie-czym-jest-komisja-ds-rosyjskich-wplywow/',
-    },
-    {
-        source: 'amnesty.org',
-        link: 'https://www.amnesty.org.pl/lex-tusk-lamie-podstawowe-prawa-czlowieka/',
-    }
-]
----
 
 ![[Pasted image 20230917204028.png]]
 

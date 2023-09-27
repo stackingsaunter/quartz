@@ -1,21 +1,4 @@
 
----
-title: 'Afera SKOK'
-importance: 1
-involved: ['grzegorz biernecki', 'jacek sasin']
-tags: ['skok', 'finanse', 'banki', 'KNF', 'wołomin']
-image_url: 'https://ocdn.eu/pulscms-transforms/1/McJk9kpTURBXy9kOGQwNmZhYzM3YmUxY2ZmODk0NmNmOTYxYmJhM2QyNC5qcGeTlQMAzLTNFoDNDKiVAs0EsADDw5MJpmViMGMwNgbeAAGhMAE/skok-wolomin.jpeg'
-sources: [
-    {
-        source: 'Onet.pl',
-        link: 'https://wiadomosci.onet.pl/kraj/afera-skok-wolomin-o-co-w-niej-chodzi/x8f3q25',
-    },
-    {
-        source: 'Business Insider',
-        link: 'https://businessinsider.com.pl/gielda/wiadomosci/afera-skok-wolomin-o-co-w-niej-chodzi-dominika-tajner-wisniewska-sprawa-wyludzenia/b22yke3',
-    }
-]
----
 
 ![[Pasted image 20230917201404.png]]
 ## Podsumowanie

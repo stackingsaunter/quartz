@@ -1,22 +1,4 @@
 
----
-title: 'Afera Getback'
-importance: 1
-involved: ['dawid jackiewicz', 'mateusz morawiecki', 'konrad kąkolewski']
-tags: ['getback', 'banki', 'bankructwo', 'korupcja']
-image_url: 'https://bi.im-g.pl/im/bf/45/17/z24400063V,Oddzial-firmy-GetBack-przy-alei--Solidarnosci--127.jpg'
-sources: [
-    {
-        source: 'wyborcza.pl',
-        link: 'https://wyborcza.pl/7,75398,24037093,jak-getback-nagral-ojca-premiera-kornel-morawiecki-obiecal.html',
-    },
-    {
-        source: 'natemat.pl',
-        link: 'https://natemat.pl/240923,o-co-chodzi-w-aferze-getback-o-wielkie-pieniadze-i-uklad-powiazan-z-wladza',
-    }
-]
----
-
 
 ![[Pasted image 20230917201428.png]]
 
