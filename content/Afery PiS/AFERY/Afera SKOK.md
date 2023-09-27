@@ -8,11 +8,11 @@ image_url: 'https://ocdn.eu/pulscms-transforms/1/McJk9kpTURBXy9kOGQwNmZhYzM3YmUx
 sources: [
     {
         source: 'Onet.pl',
-        link: 'https://wiadomosci.onet.pl/kraj/afera-skok-wolomin-o-co-w-niej-chodzi/x8f3q25'
+        link: 'https://wiadomosci.onet.pl/kraj/afera-skok-wolomin-o-co-w-niej-chodzi/x8f3q25',
     },
     {
         source: 'Business Insider',
-        link: 'https://businessinsider.com.pl/gielda/wiadomosci/afera-skok-wolomin-o-co-w-niej-chodzi-dominika-tajner-wisniewska-sprawa-wyludzenia/b22yke3'
+        link: 'https://businessinsider.com.pl/gielda/wiadomosci/afera-skok-wolomin-o-co-w-niej-chodzi-dominika-tajner-wisniewska-sprawa-wyludzenia/b22yke3',
     }
 ]
 ---

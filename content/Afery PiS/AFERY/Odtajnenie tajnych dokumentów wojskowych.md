@@ -8,7 +8,7 @@ image_url: 'https://m.natemat.pl/979c7e5f6885cf3f025848d0e4750928,1896,0,0,0.web
 sources: [
     {
         source: 'natemat.pl',
-        link: 'https://natemat.pl/511117,blaszczak-odtajnil-dokument-zeby-uderzyc-w-po-szok-u-bylych-wojskowych'
+        link: 'https://natemat.pl/511117,blaszczak-odtajnil-dokument-zeby-uderzyc-w-po-szok-u-bylych-wojskowych',
     }
 
 ---

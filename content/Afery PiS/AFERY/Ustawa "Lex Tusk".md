@@ -8,11 +8,11 @@ image_url: 'https://demagog.org.pl/wp-content/uploads/2023/05/%E2%80%9ELex-Tusk-
 sources: [
     {
         source: 'demagog.pl',
-        link: 'https://demagog.org.pl/analizy_i_raporty/lex-tusk-wchodzi-w-zycie-czym-jest-komisja-ds-rosyjskich-wplywow/'
+        link: 'https://demagog.org.pl/analizy_i_raporty/lex-tusk-wchodzi-w-zycie-czym-jest-komisja-ds-rosyjskich-wplywow/',
     },
     {
         source: 'amnesty.org',
-        link: 'https://www.amnesty.org.pl/lex-tusk-lamie-podstawowe-prawa-czlowieka/'
+        link: 'https://www.amnesty.org.pl/lex-tusk-lamie-podstawowe-prawa-czlowieka/',
     }
 ]
 ---

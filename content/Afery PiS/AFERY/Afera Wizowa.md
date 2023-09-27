@@ -8,11 +8,11 @@ image_url: 'https://ocdn.eu/pulscms-transforms/1/F31k9kpTURBXy9mY2E1YjUyMDdlOTU0
 sources: [
     {
         source: 'Onet.pl',
-        link: 'https://wiadomosci.onet.pl/kraj/wawrzyk-bollywood-i-specsluzby-usa-ujawniamy-kulisy-afery-wizowej/c7jlm3c'
+        link: 'https://wiadomosci.onet.pl/kraj/wawrzyk-bollywood-i-specsluzby-usa-ujawniamy-kulisy-afery-wizowej/c7jlm3c',
     },
     {
         source: 'OKO.press',
-        link: 'https://oko.press/afera-wizowa-informacje-i-manipulacje-o-masowym-naplywie-migrantow-sprawdzamy-fakty-i-liczby'
+        link: 'https://oko.press/afera-wizowa-informacje-i-manipulacje-o-masowym-naplywie-migrantow-sprawdzamy-fakty-i-liczby',
     }
 ]
 ---
