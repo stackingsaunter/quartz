@@ -11,7 +11,7 @@ sources: [
         link: 'https://wyborcza.pl/7,75398,24037093,jak-getback-nagral-ojca-premiera-kornel-morawiecki-obiecal.html'
     },
     {
-        source: 'natemat.pl'
+        source: 'natemat.pl',
         link: 'https://natemat.pl/240923,o-co-chodzi-w-aferze-getback-o-wielkie-pieniadze-i-uklad-powiazan-z-wladza'
     }
 ]
