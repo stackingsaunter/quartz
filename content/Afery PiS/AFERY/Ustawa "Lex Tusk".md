@@ -11,7 +11,7 @@ sources: [
         link: 'https://demagog.org.pl/analizy_i_raporty/lex-tusk-wchodzi-w-zycie-czym-jest-komisja-ds-rosyjskich-wplywow/'
     },
     {
-        source: 'amnesty.org,
+        source: 'amnesty.org',
         link: 'https://www.amnesty.org.pl/lex-tusk-lamie-podstawowe-prawa-czlowieka/'
     }
 ]
